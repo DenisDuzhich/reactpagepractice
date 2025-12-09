@@ -1,5 +1,7 @@
 # React + Vite
 
+Page is live at https://denisduzhich.github.io/reactpagepractice/
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
