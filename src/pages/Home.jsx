@@ -1,5 +1,6 @@
 import { Navbar } from "@/components/Navbar";
 import { ProjectInfo } from "@/components/ProjectInfo";
+import { Footer } from "@/components/Footer";
 
 export const Home = () => {
   return (
@@ -13,7 +14,7 @@ export const Home = () => {
         <ProjectInfo />
       </main>
       {/* footer with links znd stuff */}
-      {/*<Footer />*/}
+      <Footer />
     </div>
   );
 };

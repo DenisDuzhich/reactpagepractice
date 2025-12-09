@@ -3,7 +3,7 @@ import { X, Menu } from "lucide-react";
 import { useState, useEffect } from "react";
 
 const navItems = [
-  { name: "Home", href: "#home" },
+  { name: "Home", href: "#hero" },
   { name: "About", href: "#about" },
   { name: "Services", href: "#services" },
   { name: "Blog", href: "#blog" },
@@ -25,7 +25,7 @@ export const Navbar = () => {
   return (
     <nav
       className={cn(
-        "fixed w-full z-40 transition-all duration-300",
+        "fixed bg-background w-full z-40 transition-all duration-300",
         isScrolled ? "py-3 bg-background/80" : "py-5"
       )}
     >
@@ -35,7 +35,7 @@ export const Navbar = () => {
           href="#hero"
         >
           <span className="relative z-10">
-            PortfolioCreator <span className="text-primary-foreground">.</span>
+            Portfolio Creator <span className="text-primary-foreground">.</span>
           </span>
         </a>
         {/* desctop nav */}

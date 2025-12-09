@@ -4,7 +4,7 @@ export const ProjectInfo = () => {
   return (
     <section
       id="#hero"
-      className="relative min-h-screen mt-10 flex flex-col items-center
+      className="relative min-h-screen mt-18 flex flex-col items-center
       justify-center px-2 py-2"
     >
       <div
@@ -37,7 +37,8 @@ export const ProjectInfo = () => {
           <p>
             Робоча область:<br />
             Створено navbar, зроблено базову адаптивність для дизайну.<br />
-            Додано інформацію про проєкт.
+            Додано інформацію про проєкт.<br />
+            Додано рудиментарний footer, тільки текст.
           </p>
         </div>
         <div className="box author"> Виконав Дужич Денис </div>
