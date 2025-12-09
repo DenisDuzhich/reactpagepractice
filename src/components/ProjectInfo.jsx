@@ -20,8 +20,7 @@ export const ProjectInfo = () => {
             За основу була взята сторінка-портфоліо.<br />
             <a
               style={{ color: "blue", fontWeight: "bold" }}
-              href="https://www.figma.com/design/FMFODrqDfClG7GQGGd89qv/
-              Portfolio-Creator?node-id=1-445&t=CrQchMxyVidVgGON-0"
+              href="https://www.figma.com/design/FMFODrqDfClG7GQGGd89qv/Portfolio-Creator?node-id=0-1&t=3VfupriITeIYNQZM-1"
             >
               Оригінал дизайну; 
             </a><br />
