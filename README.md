@@ -1,6 +1,6 @@
 # React + Vite
 
-Page is live at https://denisduzhich.github.io/reactpagepractice/
+Did not display, efforts to fix failed, unpublished \{ Page is live at https://denisduzhich.github.io/reactpagepractice/ }
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
